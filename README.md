@@ -1,2 +1,2 @@
 # AndroidPHPMySQL
-PHP, MySQL intregation with Android.
+PHP, MySQL intregation with Android With Sharedpreference.
